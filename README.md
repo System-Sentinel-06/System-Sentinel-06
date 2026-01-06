@@ -1,27 +1,25 @@
-# Hi there! 👋
+# Pranav Sriram
 
-I am an aspiring software engineer who loves diving into the world of coding, algorithms, and problem-solving. My passion lies in exploring new languages, experimenting with innovative ideas, and learning something new every day.
+I am a Computer Science student currently focused on exploring how different libraries and software architectures function. My approach to coding is driven by curiosity—I enjoy building projects not just to have a finished product, but to understand the underlying logic and system behavior.
 
-## About Me
-- 🌟 **Experimentation Enthusiast**: I enjoy playing around with different programming languages and concepts.
-- 🧠 **Problem Solver**: I love puzzles and challenges that push my thinking and creativity.
-- 🚀 **Eager Learner**: Always looking for opportunities to expand my knowledge and skills.
+## Technical Interests
+- Library & Framework Exploration: Investigating how various tools handle graphics, state management, and system resources.
+- Systems & Logic: Designing the core mechanics of games and applications, focusing on clean data structures and efficient logic flows.
+- Build Automation: Streamlining development workflows using tools like Maven and GitHub Actions.
 
-## What I'm Working On
-- Building projects that combine creativity and technical skills.
-- Collaborating with others on exciting and impactful projects.
+## Currently Exploring: AI & Machine Learning
+I am in the early stages of learning Artificial Intelligence and Machine Learning. 
+- Current focus: Understanding the mathematical foundations and experimenting with classic ML libraries.
+- Goal: To move beyond using models as "black boxes" and understand how data is actually processed and transformed.
 
-## What I’m Learning
-- Exploring new programming languages and frameworks.
-- Delving deeper into algorithms and data structures.
+## Development Workflow
+I treat my repositories as a series of technical experiments. My process usually looks like this:
 
-## How to Reach Me
-- [GitHub](https://github.com/Procrastinating-Programmer-06)
-- [LinkedIn](https://www.linkedin.com/in/pranav-sriram-a3339b26a)
 
-## Fun Fact
-I enjoy puzzling pieces together to create something unique and functional!
+
+## Connectivity
+- GitHub: [Procrastinating-Programmer-06](https://github.com/Procrastinating-Programmer-06)
+- LinkedIn: [Pranav Sriram](https://www.linkedin.com/in/pranav-sriram-a3339b26a)
 
 ---
-
-Feel free to reach out if you want to collaborate or just chat about all things tech! 😊
+"Building software to understand how it works."
