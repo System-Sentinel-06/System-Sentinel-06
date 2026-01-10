@@ -1,25 +1,26 @@
-# Pranav Sriram
+# System-Sentinel-06
 
-I am a Computer Science student currently focused on exploring how different libraries and software architectures function. My approach to coding is driven by curiosity—I enjoy building projects not just to have a finished product, but to understand the underlying logic and system behavior.
+**Pranav Sriram** Computer Science Student | Systems & Logic Explorer
 
-## Technical Interests
-- Library & Framework Exploration: Investigating how various tools handle graphics, state management, and system resources.
-- Systems & Logic: Designing the core mechanics of games and applications, focusing on clean data structures and efficient logic flows.
-- Build Automation: Streamlining development workflows using tools like Maven and GitHub Actions.
-
-## Currently Exploring: AI & Machine Learning
-I am in the early stages of learning Artificial Intelligence and Machine Learning. 
-- Current focus: Understanding the mathematical foundations and experimenting with classic ML libraries.
-- Goal: To move beyond using models as "black boxes" and understand how data is actually processed and transformed.
-
-## Development Workflow
-I treat my repositories as a series of technical experiments. My process usually looks like this:
-
-
-
-## Connectivity
-- GitHub: [Procrastinating-Programmer-06](https://github.com/Procrastinating-Programmer-06)
-- LinkedIn: [Pranav Sriram](https://www.linkedin.com/in/pranav-sriram-a3339b26a)
+I build software to understand how it works. My focus is on the underlying mechanics of libraries and architectures rather than just the finished product.
 
 ---
+
+### Technical Interests
+* **Library Exploration:** Investigating how tools handle graphics, state management, and system resources.
+* **Systems & Logic:** Designing core mechanics with a focus on data structures and efficient logic flow.
+* **Automation:** I enjoy finding ways to automate repetitive tasks and streamlining my development workflow.
+
+### Currently Exploring
+* **Machine Learning:** Learning the mathematical foundations of ML to understand how data is transformed, moving beyond using models as "black boxes."
+
+### The Process
+My repositories function as technical experiments. I identify a system or library I find interesting, break down its logic, and reconstruct it to verify my understanding of its behavior.
+
+---
+
+### Connectivity
+* **GitHub:** [System-Sentinel-06](https://github.com/System-Sentinel-06)
+* **LinkedIn:** [Pranav Sriram](https://www.linkedin.com/in/pranav-sriram-a3339b26a)
+
 "Building software to understand how it works."
