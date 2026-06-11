@@ -25,4 +25,3 @@ My repositories function as technical experiments. I identify a system or librar
 
 ### Links
 * **Resume:** [Resume](https://rxresu.me/pranav.sriramc/pranav-s-resume)
-"Building software to understand how it works."
