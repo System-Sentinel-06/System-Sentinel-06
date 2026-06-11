@@ -23,4 +23,6 @@ My repositories function as technical experiments. I identify a system or librar
 * **GitHub:** [System-Sentinel-06](https://github.com/System-Sentinel-06)
 * **LinkedIn:** [Pranav Sriram](https://www.linkedin.com/in/pranav-sriram-a3339b26a)
 
+### Links
+* **Resume:** [Resume](https://rxresu.me/pranav.sriramc/pranav-s-resume)
 "Building software to understand how it works."
